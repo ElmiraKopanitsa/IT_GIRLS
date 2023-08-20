@@ -4,8 +4,6 @@ import kz.kopanitsa.lesson.week11.model.*;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.Scanner;
-
 
 public class _Main {
     public static void main (String[] args) {
